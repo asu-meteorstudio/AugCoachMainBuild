@@ -1,0 +1,10 @@
+*.dll
+*.so
+*.bin
+*.mkv
+*.onnx
+*.mp4
+Assets/AzureKinectExamples/SDK
+Library/
+Temp/
+
